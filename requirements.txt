@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+google-api-python-client
+oauth2client
+nltk
+spacy
+python-dotenv
+dash 
+dash-bootstrap-components
+vaderSentiment
+dash-ag-grid
